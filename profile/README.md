@@ -1,12 +1,10 @@
-## Hi there 👋
+# Team Member
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+|            Member           | Student ID |        Path        |                                                   
+| :-------------------------: | :--------: | :----------------: | 
+|M. Syah Zichrullah Habibie   | M2322F2811 |  Machine Learning  | 
+|      Naufaldi Hafidigbal     | M2224W2072 |  Machine Learning  |
+|     Muhammad Irfan    | A2322F2812| Mobile Development |
+|    M. Rifki Aufa     | A2322F2812 | Mobile Development |
+|Ahmad Solahudin Rifandi    | C2224W2082 |   Cloud Computing  |             
+| Refin Refiansyah Maldini | C7237F2141 |   Cloud Computing  |
