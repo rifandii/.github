@@ -1,6 +1,6 @@
 # Repository
 - [Android Application Repository](https://github.com/NanamYuk/NanamYuk-Android)
-- [Machine Learning Model Repository]()
+- [Machine Learning Model Repository](https://github.com/NanamYuk/NanamYuk-ML)
 - [Cloud Computing Backend API Repository](https://github.com/NanamYuk/backend)
 
 # Team Member
