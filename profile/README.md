@@ -1,3 +1,8 @@
+# Repository
+- [Android Application Repository](https://github.com/NanamYuk/NanamYuk-Android)
+- [Machine Learning Model Repository]()
+- [Cloud Computing Backend API Repository](https://github.com/NanamYuk/backend)
+
 # Team Member
 
 |            Member           | Student ID |        Path        |                                                   
