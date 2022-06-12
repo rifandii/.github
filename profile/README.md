@@ -1,3 +1,6 @@
+# Introduction
+<iframe width="720" height="405" src="https://www.youtube.com/embed/IZ0IBA3U5jw?autoplay=1&showinfo=0&loop=1&playlist=IZ0IBA3U5jw&rel=0" frameborder="0" allowfullscreen></iframe>
+
 # Repository
 - [Android Application Repository](https://github.com/NanamYuk/NanamYuk-Android)
 - [Machine Learning Model Repository](https://github.com/NanamYuk/NanamYuk-ML)
