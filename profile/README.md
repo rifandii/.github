@@ -18,3 +18,10 @@ NanamYuk is an gardening management and plant recommendation Android Application
 |    M. Rifki Aufa     | A2322F2812 | Mobile Development |
 |Ahmad Solahudin Rifandi    | C2224W2082 |   Cloud Computing  |             
 | Refin Refiansyah Maldini | C7237F2141 |   Cloud Computing  |
+
+
+
+# Project Architecture
+
+![Architecture](https://user-images.githubusercontent.com/63545373/173236177-067c868b-75bb-4dc3-9e2f-618929de0204.jpg)
+
