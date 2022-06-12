@@ -1,5 +1,7 @@
 # Introduction
-<iframe width="720" height="405" src="https://www.youtube.com/embed/IZ0IBA3U5jw?autoplay=1&showinfo=0&loop=1&playlist=IZ0IBA3U5jw&rel=0" frameborder="0" allowfullscreen></iframe>
+https://user-images.githubusercontent.com/66265368/173214670-a1511ac5-34d2-4fa7-a571-c1ba5ee14a0e.mp4
+
+NanamYuk is an gardening management and plant recommendation Android Application. Proudly developed by Bangkit Product Capstone C22-PS316 Team.
 
 # Repository
 - [Android Application Repository](https://github.com/NanamYuk/NanamYuk-Android)
